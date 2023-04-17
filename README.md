@@ -4,3 +4,4 @@ Questo template repository è il punto di partenza per creare il progetto finale
 
 In questo template c'è anche un esempio di come caricare e visualizzare un modello `.glb`.
 
+Il template utilizza le librerie p5js e diorama.
